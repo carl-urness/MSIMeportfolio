@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Carl Urness ePortfolio site
 layout: default
 ---
 Carl Urness is a student of information management.
